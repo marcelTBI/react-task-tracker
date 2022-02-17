@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "task": "Shopping",
+      "day": "Monday @ 15:00",
+      "reminder": false,
+      "id": "skoB1fmdaUlXeRmSsH9jO"
+    },
+    {
+      "task": "Presentation \"React\"",
+      "day": "Tuesday@ 12:00",
+      "reminder": true,
+      "id": "UIImy09W8iSdDewmT1zs_"
+    }
+  ]
+}
