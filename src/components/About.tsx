@@ -6,10 +6,10 @@ function About(): ReactElement {
         <>
             <h4>Version 1.0</h4>
             <div>
-                Built as a part of
+                Built as a part of&nbsp;
                 <a href="https://www.youtube.com/watch?v=w7ejDZ8SWv8" target="_blank" rel="noopener noreferrer">React crash course</a>
             </div>
-            <div>Subsequently typed with TypeScript (originally it was pure React JS)</div>
+            <div>Typed with TypeScript</div>
             <div>And linted with ESlint</div>
             <Link to="/">Go back</Link>
         </>
